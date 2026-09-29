@@ -12,3 +12,4 @@
 /Users/talal/Desktop/Applaie today/obj/Debug/net10.0/Applaie today.pdb
 /Users/talal/Desktop/Applaie today/obj/Debug/net10.0/Applaie today.genruntimeconfig.cache
 /Users/talal/Desktop/Applaie today/obj/Debug/net10.0/ref/Applaie today.dll
+/Users/talal/Desktop/Applaie today/obj/Debug/net10.0/Applaie today.sourcelink.json
