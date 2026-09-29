@@ -1,0 +1,14 @@
+/Users/talal/Desktop/Applaie today/bin/Debug/net10.0/Applaie today
+/Users/talal/Desktop/Applaie today/bin/Debug/net10.0/Applaie today.deps.json
+/Users/talal/Desktop/Applaie today/bin/Debug/net10.0/Applaie today.runtimeconfig.json
+/Users/talal/Desktop/Applaie today/bin/Debug/net10.0/Applaie today.dll
+/Users/talal/Desktop/Applaie today/bin/Debug/net10.0/Applaie today.pdb
+/Users/talal/Desktop/Applaie today/obj/Debug/net10.0/Applaie today.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/Applaie today/obj/Debug/net10.0/Applaie today.AssemblyInfoInputs.cache
+/Users/talal/Desktop/Applaie today/obj/Debug/net10.0/Applaie today.AssemblyInfo.cs
+/Users/talal/Desktop/Applaie today/obj/Debug/net10.0/Applaie today.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/Applaie today/obj/Debug/net10.0/Applaie today.dll
+/Users/talal/Desktop/Applaie today/obj/Debug/net10.0/refint/Applaie today.dll
+/Users/talal/Desktop/Applaie today/obj/Debug/net10.0/Applaie today.pdb
+/Users/talal/Desktop/Applaie today/obj/Debug/net10.0/Applaie today.genruntimeconfig.cache
+/Users/talal/Desktop/Applaie today/obj/Debug/net10.0/ref/Applaie today.dll
